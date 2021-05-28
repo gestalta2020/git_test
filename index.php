@@ -3,4 +3,5 @@
   echo "<hr />";
   $arr=array();
   print_r($COOKES);
+  //add newline here
 ?>
